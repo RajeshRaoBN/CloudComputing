@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2e01992c-721b-4d6e-be83-f12de32c2434" name="sftp://ec2-54-89-211-194.compute-1.amazonaws.com" url="http://ec2-54-89-211-194.compute-1.amazonaws.com">
+        <fileTransfer host="ec2-54-89-211-194.compute-1.amazonaws.com" port="22" privateKey="$USER_HOME$/Downloads/mynewkeypair.pem" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
