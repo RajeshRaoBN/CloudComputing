@@ -1,2 +1,46 @@
 User manual
 
+Instructions:
+
+1) Go to careernet.ml
+
+2) Go to either job seeker/job provider web portal depending on who you want to log in as
+
+3) Sign up for the Services
+
+4) Once you have registered you should see a log in page
+
+5) Log in to the website
+
+The following is instructions for job seekers who are logged in.
+
+6a) If you login as a job seeker you will be allowed to browse through all the jobs and record the job that interests you.
+
+7a) As you choose the job or set filters your filters get recorded and is shown in the summary which is editable.
+
+8a) Once you finalise your filters you will be asked to upload your resume 
+
+9a) Once you upload your resume the resume gets converted and split into skills, name, contact details, employment history, 
+project history etc. Check and edit all that is required. Press next to go to next page.
+
+10a) In the next page it gives you a summery of all the skills and years of experience you have in those skills. Edit and add
+more skills if needed. You can also give a discription as to which educational institution or employment you acquired those
+skills. You can also provide documents confirming those skills such as certificates or work references who can endorse your 
+skills. Press next to go to the next page.
+
+11a) Here you can customize your cover letter to for the job application.
+
+12a) Once you hit submit it automatically applies for the jobs you shortlisted depending on the job providers filters. It will
+give you a summery of all the jobs applied for and the jobs that the provider has filtered out. It will also apply for similar
+jobs that matches both your criteria as well as job providers criteria. 
+
+13a) At the end of the summery it will ask if you want to opt for an automatic search and apply service for the next 30 or 90
+days for a fee. Also it will allow you to change filter.
+
+The following is instructions for job provider who are logged in.
+
+6b) If you login as a job provider you will be allowed to post a job.
+
+7b) As you choose the post the job or set filters it gives the number of candidates available for those jobs. It also gives
+the average earnings for those jobs. It also gives out the number of similar jobs listed so that a gap analysis is possible
+and filter can be set to attract a number of applicants. 
