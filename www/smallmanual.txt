@@ -44,3 +44,4 @@ The following is instructions for job provider who are logged in.
 7b) As you choose the post the job or set filters it gives the number of candidates available for those jobs. It also gives
 the average earnings for those jobs. It also gives out the number of similar jobs listed so that a gap analysis is possible
 and filter can be set to attract a number of applicants. 
+ 
