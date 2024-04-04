@@ -11,8 +11,6 @@ use Aws\S3\S3Client;
 use Aws\Common\Credentials\Credentials;
 
  //if (ENVIRONMENT == 'production') {
-    define('AWS_S3_KEY', 'AKIAJNU73XE4GYEI7M4A');
-    define('AWS_S3_SECRET', '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');
     define('AWS_S3_REGION', 'us-east-1');
     define('AWS_S3_BUCKET', 'careernet');
     define('AWS_S3_URL', 'http://s3.'.AWS_S3_REGION.'.amazonaws.com/'.AWS_S3_BUCKET.'/');
