@@ -41,7 +41,7 @@ if (defined('AWS_S3_URL')) {
 echo "It is working till here";
 // Use an Aws\Sdk class to create the S3Client object.
 // $s3Client = $sdk->createS3();
-// $credentials = new Credentials('AKIAJ/NU73XE4GYEI7M4A', 'Y7VYItmSZstfpKZDq1lTPMTF8xg11kKs2SeRcI3Q');
+
 
 // Use the us-east-2 region and latest version of each client.
 // $sharedConfig = [
